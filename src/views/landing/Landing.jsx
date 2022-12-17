@@ -161,7 +161,7 @@ const Landing = () => {
             <div className={`${style.food} row col-6  `}>
               <Link to="/detail">
                 <a>
-                  <img src={require('../../assets/image/pizza.webp')} alt="Pizza Lamoa" className={style.foodImage} />
+                  <img src={require('../../assets/image/Vector2.webp')} alt="Pizza Lamoa" className={style.foodImage} />
                   <h4>Pizza Lamoa</h4>
                 </a>
               </Link>
